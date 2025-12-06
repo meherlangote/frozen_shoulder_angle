@@ -1,5 +1,15 @@
+# streamlit>=1.20
+# opencv-python-headless>=4.7.0
+# mediapipe>=0.10.0
+# numpy>=1.24
+# Pillow>=9.5
+
 streamlit>=1.20
 opencv-python-headless>=4.7.0
 mediapipe==0.10.21
 numpy>=1.23
 pandas>=2.0
+<<<<<<< HEAD
+=======
+
+>>>>>>> 257476b506a848a1354c91d69aa4063813694bb6
