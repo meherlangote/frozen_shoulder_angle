@@ -1,9 +1,6 @@
-streamlit>=1.20
-opencv-python-headless>=4.7.0
+streamlit==1.28.0
+opencv-python-headless==4.8.1.78
 mediapipe==0.10.21
-numpy>=1.23
-pandas>=2.0
-<<<<<<< HEAD
-=======
-
->>>>>>> 257476b506a848a1354c91d69aa4063813694bb6
+numpy==1.24.3
+protobuf==3.20.3
+altair<5
